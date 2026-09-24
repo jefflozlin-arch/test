@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1:25693",
+    "ip": "chaossmp2079.play.hosting",
     "port": 62909,
     "version": "",
     "try-creative": false
